@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Wit Web
+본 프로젝트는 wit-internship을 위해 만들어진 위트 웹 서비스입니다.
 
 ## Available Scripts
 
