@@ -1,5 +1,5 @@
-## Wit Web
-본 프로젝트는 wit-internship을 위해 만들어진 위트 웹 서비스입니다.
+## Management System
+본 프로젝트는 React 강의를 보고 따라 만든 고객 관리 시스템(Management System)입니다.
 
 ## Available Scripts
 
